@@ -12,3 +12,13 @@
 </p>
 
 
+
+- 🌱 I’m currently learning new technologies and improving my coding skills.
+
+- 👨‍💻 All of my projects are available at [mariamo101](https://github.com/mariamo101)
+
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mariamo-mariamo101)
+
+
+
+
