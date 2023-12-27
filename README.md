@@ -19,11 +19,6 @@
     <a href="https://securityscorecards.dev/viewer/?uri=github.com/mariamo101/github-readme-stats">
       <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/mariamo101/github-readme-stats/badge" />
     </a>
-    <br />
-    <br />
-    <a href="https://vercel.com?utm\_source=github\_readme\_stats\_team\&utm\_campaign=oss">
-      <img src="./powered-by-vercel.svg"/>
-    </a>
+    
   </p>
 
-</p>
