@@ -5,7 +5,17 @@
   <img src="https://komarev.com/ghpvc/?username=mariamo101&label=Profile%20views&color=3f5427&style=plastic" alt="mariamo101" />
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariamo101)](https://github.com/mariamo101/github-readme-stats)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 
 - 🌱 I’m currently learning new technologies and improving my coding skills.
