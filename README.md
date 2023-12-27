@@ -96,10 +96,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariamo101" alt="Mariami Makhniashvili's GitHub Contribution"/>
 </p>
 
- <p align="center">
-   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariamo101)
-
-
-
-</p>
