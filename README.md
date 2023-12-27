@@ -96,6 +96,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariamo101" alt="Mariami Makhniashvili's GitHub Contribution"/>
 </p>
 
-![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&theme=calm)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariamo101)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariamo101\&layout=pie)](https://github.com/mariamo101/github-readme-stats)
 
