@@ -5,6 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=mariamo101&label=Profile%20views&color=3f5427&style=plastic" alt="mariamo101" />
 </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🌱 I’m currently learning new technologies and improving my coding skills.
