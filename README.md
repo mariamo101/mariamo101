@@ -76,13 +76,17 @@
  <a  href="https://icons8.com/icon/nCj4PvnCO0tZ/typescript">
      <img width="40" height="40" src="https://img.icons8.com/fluency/48/typescript--v1.png" alt="typescript--v1"/>
   </a>
+<a  href="https://icons8.com/icon/nCj4PvnCO0tZ/typescript">
+     <img width="40" height="40" src="https://github.com/mariamo101/increase-decrease/assets/117212859/2e29762c-0777-4909-ae0a-2a336f0bc9a8)" alt="Nex.js"/>
+  </a>
+  
 </div>
 
 
-![snake gif](https://github.com/nikanoza/nikanoza/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/mariamo101/mariamo101/blob/output/github-contribution-grid-snake.gif)
 
 <p align="center">   
-  <a href="[https://github.com/nikanoza](https://github.com/mariamo101)"> 
+  <a href="[https://github.com/mariamo101](https://github.com/mariamo101)"> 
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariamo101&theme=radical" alt="Mariami makhniashvili's GitHub Contribution"/>     </a>
 </p>
 
