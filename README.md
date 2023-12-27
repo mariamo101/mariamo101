@@ -96,3 +96,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariamo101" alt="Mariami Makhniashvili's GitHub Contribution"/>
 </p>
 
+
+![Mariami's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariamo101\&show_icons=true\&theme=radical)
+
