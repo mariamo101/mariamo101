@@ -97,7 +97,9 @@
 </p>
 
  <p align="center">
+   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariamo101)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariamo101\&layout=pie)](https://github.com/mariamo101/github-readme-stats)
+
+
 </p>
