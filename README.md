@@ -76,10 +76,9 @@
  <a  href="https://icons8.com/icon/nCj4PvnCO0tZ/typescript">
      <img width="40" height="40" src="https://img.icons8.com/fluency/48/typescript--v1.png" alt="typescript--v1"/>
   </a>
-<a  href="https://icons8.com/icon/nCj4PvnCO0tZ/typescript">
-     <img width="40" height="40" src="https://github.com/mariamo101/increase-decrease/assets/117212859/2e29762c-0777-4909-ae0a-2a336f0bc9a8)" alt="Nex.js"/>
-  </a>
-  
+  <a  href="https://icons8.com/icon/SjVoLHZ0SmTi/next">Next
+<img width="40" height="40" src="https://img.icons8.com/external-others-inmotus-design/67/external-Next-keyboard-others-inmotus-design.png" alt="external-Next-keyboard-others-inmotus-design"/>
+  <a/>
 </div>
 
 
