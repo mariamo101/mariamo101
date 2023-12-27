@@ -3,7 +3,6 @@
   
 
   <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mariamo101&label=Profile%20views&color=3f5427&style=plastic" alt="mariamo101" />
     <a href="https://github.com/mariamo101/github-readme-stats/graphs/contributors">
       <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/mariamo101/github-readme-stats" />
     </a>
