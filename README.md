@@ -48,7 +48,8 @@
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/nextjs.png" alt="nextjs"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/sass.png" alt="sass"/>
 <img width="45" height="45" src="https://img.icons8.com/plasticine/100/tailwind_css.png" alt="tailwind_css"/>
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/vite.png" alt="vite"/>
+< <img width="48" height="48" src="https://img.icons8.com/color/48/styled-components.png" alt="styled-components"/> >
+ <img width="48" height="48" src="https://img.icons8.com/fluency/48/vite.png" alt="vite"/>
 <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/json.png" alt="json"/> 
 </div>
 
