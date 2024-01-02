@@ -51,6 +51,7 @@
 <img width="48" height="48" src="https://img.icons8.com/color/48/styled-components.png" alt="styled-components"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/vite.png" alt="vite"/>
 <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/json.png" alt="json"/> 
+<img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>
 </div>
 
 
