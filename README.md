@@ -40,7 +40,7 @@ A classic Tic Tac Toe game built with HTML, CSS, and JavaScript.
 
 ### 💼 Portfolio Website
 My personal portfolio website showcasing my projects and frontend skills.  
-🔗 [Visit Portfolio](https://portfolio-makhniashvili.netlify.app/)
+🔗 [Visit Portfolio](https://mariami-portfolio.vercel.app/)
 
 ### 🧮 Tip Calculator App
 An interactive bill splitting and tip calculator built as a frontend practice project.
@@ -50,11 +50,11 @@ An interactive bill splitting and tip calculator built as a frontend practice pr
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariamo101&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mariamo101&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariamo101&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=mariamo101&theme=tokyonight" />
 </p>
 
 ---
