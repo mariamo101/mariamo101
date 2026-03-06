@@ -1,67 +1,66 @@
-<h1 align="center"> Hello, I'm  Mariami Makhniashvili 👋 </h1>
-<h3 align="center">I'm a  Software Engineer from Georgia interested in  web development, and open source projects.</h3>
-  
+<h1 align="center">Hi, I'm Mariami Makhniashvili 👋</h1>
+<h3 align="center">Frontend Developer focused on React, Next.js, TypeScript, and modern web development.</h3>
 
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mariamo101&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mariamo101&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=mariamo101&show_icons=true" />
-</picture>
-
-- 🌱 I’m currently learning new technologies and improving my coding skills.
-
-- 👨‍💻 All of my projects are available at [mariamo101](https://github.com/mariamo101)
-
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mariamo-mariamo101)
-
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  
-  <a href="https://www.linkedin.com/in/mariamo-mariamo101/" target="_blank">
-<img width="64" height="64" src="https://img.icons8.com/fluency/48/linkedin-circled.png" alt="linkedin-circled"/>
+<p align="center">
+  <a href="https://github.com/mariamo101">
+    <img src="https://img.shields.io/badge/GitHub-mariamo101-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="hhttps://portfolio-makhniashvili.netlify.app/" target="_blank">
-    <img width="64" height="64" src="https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/64/external-portfolio-ux-and-ui-flatart-icons-lineal-color-flatarticons.png" alt="external-portfolio-ux-and-ui-flatart-icons-lineal-color-flatarticons"/>
+  <a href="https://www.linkedin.com/in/mariamo-mariamo101/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mariami%20Makhniashvili-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://portfolio-makhniashvili.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge&logo=vercel" alt="Portfolio"/>
   </a>
 </p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
-<img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/github.png" alt="github"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
-<img width="50" height="50" src="https://img.icons8.com/bubbles/50/react.png" alt="react"/>
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/typescript--v1.png" alt="typescript--v1"/>
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/nextjs.png" alt="nextjs"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/sass.png" alt="sass"/>
-<img width="45" height="45" src="https://img.icons8.com/plasticine/100/tailwind_css.png" alt="tailwind_css"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/styled-components.png" alt="styled-components"/>
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/vite.png" alt="vite"/>
-<img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/json.png" alt="json"/> 
-</div>
+## About Me
 
+- Frontend Developer from Georgia
+- Focused on building responsive and user-friendly web applications
+- Working with React, Next.js, TypeScript, and Tailwind CSS
+- Currently improving my skills through real-world projects
+- Open to junior frontend opportunities and collaborations
 
-![snake gif](https://github.com/mariamo101/mariamo101/blob/output/github-contribution-grid-snake.gif)
+---
 
-<p align="center">   
-  <a href="[https://github.com/mariamo101](https://github.com/mariamo101)"> 
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariamo101&theme=radical" alt="Mariami makhniashvili's GitHub Contribution"/>     </a>
+## Tech Stack
+
+**Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Sass  
+**Tools:** Git, GitHub, Figma, Vite, JSON
+
+---
+
+## Featured Projects
+
+### 🎮 Tic Tac Toe Game
+A classic Tic Tac Toe game built with HTML, CSS, and JavaScript.  
+🔗 [Live Demo](https://tic-tac-toe-mm.netlify.app/)
+
+### 💼 Portfolio Website
+My personal portfolio website showcasing my projects and frontend skills.  
+🔗 [Visit Portfolio](https://portfolio-makhniashvili.netlify.app/)
+
+### 🧮 Tip Calculator App
+An interactive bill splitting and tip calculator built as a frontend practice project.
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mariamo101&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-<p align="center">   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariamo101" alt="Mariami Makhniashvili's GitHub Contribution"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariamo101&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+---
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/mariamo-mariamo101/)
+- [Portfolio](https://mariami-portfolio.vercel.app/)
+- [GitHub](https://github.com/mariamo101)
