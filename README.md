@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/mariamo-mariamo101/">
     <img src="https://img.shields.io/badge/LinkedIn-Mariami%20Makhniashvili-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://portfolio-makhniashvili.netlify.app/">
+  <a href="https://mariami-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge&logo=vercel" alt="Portfolio"/>
   </a>
 </p>
